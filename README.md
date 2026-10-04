@@ -63,6 +63,3 @@ Busco prácticas pre-profesionales remuneradas como desarrollador web junior.
 <hr />
 -->
 
-<p align="center">
-  <i>Si tienes una oportunidad de prácticas, escríbeme.</i>
-</p>

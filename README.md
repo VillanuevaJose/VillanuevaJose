@@ -29,7 +29,7 @@ Busco prácticas pre-profesionales remuneradas como desarrollador web junior.
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring" />
   <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,firebase,mongodb" />
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vercel,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vercel,postman,figma" />
 </div>
 
 <br />

@@ -17,7 +17,7 @@ Soy estudiante de 8vo ciclo de Ingeniería de Sistemas e Informática en la UTP,
 
 Participo en un proyecto con cliente real: un sistema de gestión de obras para una constructora, en equipo de 4 personas con metodología **Scrum**.
 
-Actualmente estoy reforzando **SQL**, **Git**, **APIs REST** y **Java (Spring Boot)**. También hice cursos de redes y ciberseguridad con Cisco Networking Academy.
+Actualmente estoy reforzando **SQL**, **Git** y **APIs REST**, y aprendiendo **Docker**, **Linux**, **Spring Boot** y **Express**. También hice cursos de redes y ciberseguridad con Cisco Networking Academy.
 
 Busco prácticas pre-profesionales remuneradas como desarrollador web junior.
 
@@ -28,8 +28,14 @@ Busco prácticas pre-profesionales remuneradas como desarrollador web junior.
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
   <img src="https://skillicons.dev/icons?i=nodejs,python,java" />
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql" />
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,firebase,mongodb" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma" />
+</div>
+
+<h3 align="center">Aprendiendo</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,spring,linux,express" />
 </div>
 
 <br />
